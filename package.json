@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-albuquerque",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "City of Albuquerque GIS — Albuquerque, New Mexico open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-f16abec30eeff2b329e7d397012fa9a1f82eb72b3bff87152713addc91b448c2",
-    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
+    "sourceHash": "v1-dfa121e52b97fa2874b59b6403f83e1eabdadd63d9824c615412b4c902067be1",
+    "sourceCommit": "351c40908821cfecc9bb2f5849d87bbfdbb26d75"
   }
 }
